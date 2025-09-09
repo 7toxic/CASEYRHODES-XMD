@@ -16,8 +16,8 @@
   \_/   \___| \___||_| |_|
 @ Project Name : caseyrhodes tech 
 * Creator      : Caseyrhodes Tech 
-* My Git       : https//github.com/caseyweb
-* Contact      : wa.me/254112192119
+* My Git       : https//github.com/7toxic
+* Contact      : wa.me/254716637803
 *
 * Release Date : 18 august 2025 12.01 AM
 */
@@ -76,7 +76,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© POWERED DARKNET TECH*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/52dotx.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Powered by *CASEYRHODES TECH*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Powered by *DRKNET TECH*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
