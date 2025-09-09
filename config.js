@@ -30,7 +30,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~X8pgVLqJ#FpK5dXSgRyW8sz7od6bq8AyAZX36BHE_04H3nPBNJ9U",
+SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~e94j0RgR#cxg54_puwiPH30POgmQNm0B9WXl9bi9rGCUGq0TF2Kg",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -58,7 +58,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/52dotx.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "CASEYRHODES-MD",
+BOT_NAME: process.env.BOT_NAME || "TOXIC-MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "CASEYRHODES",
 // type sticker pack name 
@@ -72,7 +72,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "254716637803",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "CASEYRHODES-TECH",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© POWERED CASEYRHODES TECH*",
+DESCRIPTION: process.env.DESCRIPTION || "*© POWERED DARKNET TECH*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/52dotx.jpg",
 // add img for alive msg
