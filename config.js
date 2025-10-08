@@ -30,7 +30,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~e94j0RgR#cxg54_puwiPH30POgmQNm0B9WXl9bi9rGCUGq0TF2Kg",
+SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~vspTHbTJ#0kbZ4mcdq3A5ATywc44N0ZJNJJ-wYHRvIkyovbaSCfU",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -40,7 +40,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 //anticall on/off
    ANTI_CALL: process.env.ANTI_CALL || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY CASEYRHODES TECH 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*ingine moto🙌*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
